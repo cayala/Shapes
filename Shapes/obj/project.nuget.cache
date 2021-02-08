@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdtJPIo6o5rmDSdSWdvBjmkzzLdiyX3ANtmuE965YsXL31tvx+rU5Sx/WGq3BJiJRz+NP8NVQisxsBYFVi5rXA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Shapes\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lonk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
